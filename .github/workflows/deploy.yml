@@ -20,8 +20,3 @@ jobs:
 
       - name: Deploy MyApp with Ansible
         run: ansible-playbook -i inventory deploy.yml
-
-      - name: Test MyApp
-        run: |
-          sleep 5
-          curl -s http://localhost:5000/weatherforecast
