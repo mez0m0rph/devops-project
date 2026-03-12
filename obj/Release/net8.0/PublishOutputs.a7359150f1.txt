@@ -1,0 +1,12 @@
+/opt/myapp/MyApp
+/opt/myapp/appsettings.Development.json
+/opt/myapp/appsettings.json
+/opt/myapp/MyApp.dll
+/opt/myapp/MyApp.deps.json
+/opt/myapp/MyApp.runtimeconfig.json
+/opt/myapp/MyApp.pdb
+/opt/myapp/Microsoft.AspNetCore.OpenApi.dll
+/opt/myapp/Microsoft.OpenApi.dll
+/opt/myapp/Swashbuckle.AspNetCore.Swagger.dll
+/opt/myapp/Swashbuckle.AspNetCore.SwaggerGen.dll
+/opt/myapp/Swashbuckle.AspNetCore.SwaggerUI.dll
